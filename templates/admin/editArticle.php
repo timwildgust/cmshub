@@ -1,3 +1,4 @@
+<?php include "templates/include/nav.php" ?>
 <?php include "templates/include/header.php" ?>
 
 </br></br>
@@ -25,7 +26,7 @@
 
 
 <div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 stupid"><label for="title">Article Title</label></div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 stupid"><label for="title">Title</label></div>
 </div>
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><input type="text" name="title" id="title" placeholder="Name of the article" required autofocus maxlength="255" value="<?php echo htmlspecialchars( $results['article']->title )?>" /></div>
@@ -33,7 +34,7 @@
 
 
 <div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><label for="summary">Article Summary</label></div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><label for="summary">Summary</label></div>
 </div>
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><textarea name="summary" id="summary" placeholder="Brief description of the article" required maxlength="1000" style="height: 5em;"><?php echo htmlspecialchars( $results['article']->summary )?></textarea></div>
@@ -41,7 +42,7 @@
 
  
 <div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><label for="content">Article Content</label></div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><label for="content">Content</label></div>
 </div>
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><textarea name="content" id="content" placeholder="The HTML content of the article" required maxlength="100000" style="height: 30em;"><?php echo htmlspecialchars( $results['article']->content )?></textarea></div>

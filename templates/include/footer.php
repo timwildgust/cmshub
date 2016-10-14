@@ -6,8 +6,10 @@
   						<div class="col-xs-6 col-md-1">Timothy Wildgust</div>
   						<div class="col-xs-6 col-md-1">Feargal Wright</div>
   						<div class="col-xs-6 col-md-1">Katie Brady</div>
-  						<div class="col-xs-6 col-md-1"></div>     
-        <p><a href="user.php?action=logout"?>Log out</a></p>
+  						<div class="col-xs-6 col-md-1">
+  						    <p><a href="user.php?action=logout"?>Log out</a></p>
+                            <p><a href="./?action=timeTableBuilder"?>Timetable</a></p></div>     
+        
       </div>
       </div>
 

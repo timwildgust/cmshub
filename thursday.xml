@@ -1,0 +1,175 @@
+<thursday>
+
+<!--SCR1-->   
+    <class>
+        <room>SCR1</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>
+            <thirteen>free</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>class</fifteen>
+            <sixteen>free</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>class</twenty>
+            <twentyone>class</twentyone>
+            <twentytwo>free</twentytwo> 
+    </class>    
+
+<!--MMLAB-->     
+    <class>
+        <room>MMLAB</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>
+            <thirteen>class</thirteen>
+            <fourteen>free</fourteen>
+            <fifteen>free</fifteen>
+            <sixteen>class</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>free</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>free</twenty>
+            <twentyone>free</twentyone>
+            <twentytwo>free</twentytwo>    
+                
+    </class>
+
+<!--SCR2-->  
+    <class>
+        <room>SCR2</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>
+            <thirteen>class</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>free</fifteen>
+            <sixteen>free</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>class</twenty>
+            <twentyone>free</twentyone>
+            <twentytwo>free</twentytwo>      
+    </class>    
+
+<!--SCR3-->      
+    <class>
+        <room>SCR3</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>
+            <thirteen>free</thirteen>
+            <fourteen>free</fourteen>
+            <fifteen>class</fifteen>
+            <sixteen>free</sixteen>
+            <seventeen>class</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>free</twenty>
+            <twentyone>free</twentyone>
+            <twentytwo>free</twentytwo>              
+    </class>    
+
+<!--MR301-->      
+    <class>
+        <room>MR301</room>    
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>free</eleven>
+            <twelve>class</twelve>
+            <thirteen>class</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>class</fifteen>
+            <sixteen>free</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>free</eighteen>
+            <nineteen>free</nineteen>
+            <twenty>free</twenty>
+            <twentyone>free</twentyone>
+            <twentytwo>free</twentytwo>      
+    </class>    
+
+<!--HLAB3-->     
+    <class>
+        <room>HLAB3</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>   
+            <thirteen>class</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>class</fifteen>
+            <sixteen>class</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>class</twenty>
+            <twentyone>free</twentyone>
+            <twentytwo>free</twentytwo>           
+    </class>    
+
+<!--OFLAB3-->  
+    <class>
+        <room>OFLAB3</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>free</eleven>
+            <twelve>free</twelve>
+            <thirteen>free</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>class</fifteen>
+            <sixteen>class</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>class</twenty>
+            <twentyone>class</twentyone>
+            <twentytwo>free</twentytwo>         
+    </class>    
+
+<!--ORIEL-->  
+    <class>
+        <room>ORIEL</room>
+            <nine>class</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>
+            <thirteen>class</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>free</fifteen>
+            <sixteen>free</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>class</twenty>
+            <twentyone>class</twentyone>
+            <twentytwo>free</twentytwo>       
+    </class>
+
+<!--LAB308-->      
+    <class>
+        <room>LAB308</room>
+            <nine>free</nine>
+            <ten>class</ten>
+            <eleven>class</eleven>
+            <twelve>class</twelve>
+            <thirteen>class</thirteen>
+            <fourteen>class</fourteen>
+            <fifteen>class</fifteen>
+            <sixteen>class</sixteen>
+            <seventeen>free</seventeen>
+            <eighteen>class</eighteen>
+            <nineteen>class</nineteen>
+            <twenty>class</twenty>
+            <twentyone>class</twentyone>
+            <twentytwo>free</twentytwo>
+    </class>
+
+</thursday>

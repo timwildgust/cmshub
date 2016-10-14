@@ -11,10 +11,10 @@
 <!-- Conatiner with Login Form-->
 
 </br></br></br>
-<div class="jumbotron1">
-    <div class="container" style="width:70%;">
+<div class="jumbotron1" >
+    <div class="container" style="width:80%;">
         <div class="row">
-            <div class="col-md-12">
+            <div class="">
                 <div class="form-wrap-form" align="center">
                     <p class="form-title-form">Sign In</p>
                     </br>
@@ -46,5 +46,5 @@
         
       </form>
 
-<?php include "templates/include/footer.php" ?>
+
 

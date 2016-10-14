@@ -81,7 +81,7 @@ function logout() {
 function newArticle() {
   
   $results = array();
-  $results['pageTitle'] = "New Article";
+  $results['pageTitle'] = "New News";
   $results['formAction'] = "newArticle";
 
   if ( isset( $_POST['saveChanges'] ) ) {
@@ -109,7 +109,7 @@ function newArticle() {
 function editArticle() {
 
   $results = array();
-  $results['pageTitle'] = "Edit Article";
+  $results['pageTitle'] = "Edit News";
   $results['formAction'] = "editArticle";
 
   if ( isset( $_POST['saveChanges'] ) ) {
@@ -158,7 +158,7 @@ function listArticles() {
   $data = Article::getList();
   $results['articles'] = $data['results'];
   $results['totalRows'] = $data['totalRows'];
-  $results['pageTitle'] = "All Articles";
+  $results['pageTitle'] = "All News";
 
   if ( isset( $_GET['error'] ) ) {
     if ( $_GET['error'] == "articleNotFound" ) $results['errorMessage'] = "Error: Article not found.";

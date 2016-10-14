@@ -1,3 +1,4 @@
+<?php include "templates/include/nav.php" ?>
 <?php include "templates/include/header.php" ?>
 
 </br>
@@ -14,7 +15,7 @@
 </div>
 </div>
 </div>
-      <p><a href="./">Return to Homepage</a></p>
+  </br> </br> </br> </br> </br>
 
 
 

@@ -1,7 +1,8 @@
+<?php include "templates/include/nav.php" ?>
 <?php include "templates/include/header.php" ?>
 <div class="container" align="center">
     <div align="center">
-      <h1>Article Archive</h1>
+      <h1>News Archive</h1>
       </div>
       
       
@@ -15,7 +16,7 @@
        <div class="tim2" align="center"><a href=".?action=viewArticle&amp;articleId=<?php echo $article->id?>"><?php echo htmlspecialchars( $article->title )?></a></div>
 </div>
 <div class="row">
-       <div class="tim2" align="center"><p class="summary"><?php echo htmlspecialchars( $article->summary )?></p></div>
+     
 </div>         
  </div>
 
@@ -26,10 +27,8 @@
 
       <p><?php echo $results['totalRows']?> article<?php echo ( $results['totalRows'] != 1 ) ? 's' : '' ?> in total.</p>
 
-<div align="center">
-      <a  href="./" class="btn btn-primary" role="button" >Return to Homepage</a>
-</div>
-     </br>
+
+      </br> </br> </br> </br> </br>
 </div>
 <?php include "templates/include/footer.php" ?>
 

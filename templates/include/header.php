@@ -11,6 +11,8 @@
       <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
       <script src="//code.jquery.com/jquery-1.10.2.js"></script>
       <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+      <link rel="stylesheet" type="text/css" href="buttonStyle.css">
+
       <link rel="stylesheet" href="css/form.css">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       
@@ -25,6 +27,7 @@
     <div id="container">
 <div class="container">
   <div align="center">
-      <a href="index.php"><img id="logo" src="images/logo.jpg" alt="Cms" /></a>
+      <a href="index.php"><img id="logo" src="images/Logo.png" alt="Cms" /></a>
+
       </div>
 </div>

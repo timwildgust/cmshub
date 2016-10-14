@@ -1,11 +1,12 @@
 <?php
+
 ini_set( "display_errors", true );
 define( "DB_DSN", "mysql:host=localhost;dbname=cms" );
 define( "DB_USERNAME", "timwildgust" );
 define( "DB_PASSWORD", "" );
 define( "CLASS_PATH", "classes" );
 define( "TEMPLATE_PATH", "templates" );
-define( "HOMEPAGE_NUM_ARTICLES", 5 );
+define( "HOMEPAGE_NUM_ARTICLES", 3 );
 define( "ADMIN_USERNAME", "admin" );
 define( "ADMIN_PASSWORD", "mypass" );
 define("STUDENT_USERNAME", "x12104604");
